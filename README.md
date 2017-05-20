@@ -1,7 +1,7 @@
 # laravel-model-factory-forum-demo
 Laravel Model Factory Demo for the Texarkana Area IT Users Group
 
-1. Clone the repo. For example `git clone forum`
+1. Clone the repo. For example `git clone https://github.com/TxkUG/laravel-model-factory-forum-demo.git forum`
 2. Run composer update
 3. Create a local DB
 4. Create a .env file and edit db connection settings as appropriate
@@ -10,4 +10,4 @@ Laravel Model Factory Demo for the Texarkana Area IT Users Group
 
 Here is a link to the Faker repo: https://github.com/fzaninotto/Faker
 
-Most of the demo code is in the database\factories\ModelFactory.php and database\seeds\Databseeder.php
+Most of the related demo code is in the database\factories\ModelFactory.php and database\seeds\Databseeder.php files.
