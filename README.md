@@ -1,5 +1,5 @@
-# laravel-model-factory-forum-demo
-Laravel Model Factory Demo for the Texarkana Area IT Users Group
+# Laravel Model Factory Demo 
+Laravel Model Factory demo presented to the Texarkana Area IT Users Group on May 19, 2017
 
 1. Clone the repo. For example `git clone https://github.com/TxkUG/laravel-model-factory-forum-demo.git forum`
 2. Run composer update
