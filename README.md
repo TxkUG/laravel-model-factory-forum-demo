@@ -1,4 +1,4 @@
-# ![Laravel Model Factory Demo](logo.png)
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"> # Laravel Model Factory Demo</p>
 
 Laravel Model Factory demo presented to the Texarkana Area IT Users Group on May 19, 2017
 
