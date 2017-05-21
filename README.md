@@ -1,5 +1,10 @@
-# Laravel Model Factory Demo 
+# ![Laravel Model Factory Demo](logo.png)
+
 Laravel Model Factory demo presented to the Texarkana Area IT Users Group on May 19, 2017
+
+----------
+
+## Installation
 
 1. Clone the repo. For example `git clone https://github.com/TxkUG/laravel-model-factory-forum-demo.git forum`
 2. Run composer update
