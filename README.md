@@ -1,4 +1,5 @@
 <img src="https://laravel.com/assets/img/components/logo-laravel.svg"> 
+
 # Laravel Model Factory Demo
 
 Laravel Model Factory demo presented to the Texarkana Area IT Users Group on May 19, 2017
