@@ -1,13 +1,12 @@
 <img src="https://laravel.com/assets/img/components/logo-laravel.svg"> 
 
-# Laravel Model Factory Demo
+# Laravel Model Factories Demo
 
-Laravel Model Factory demo presented to the Texarkana Area IT Users Group on May 19, 2017
+Laravel Model Factories demo presented to the Texarkana Area IT Users Group on May 19, 2017
 
 ----------
 
 ## Installation
-
 
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.4/installation#installation)
 
@@ -32,8 +31,11 @@ Generate a new application key
 
     php artisan key:generate
     
-Create a new database 
+Create a new database, for example: 
 
+    mysql -uroot -p
+    mysql>create database forum;
+    
 Run the database migrations (**Set the database connection in .env before migrating**)
 
     php artisan migrate
